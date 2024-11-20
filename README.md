@@ -23,4 +23,4 @@ Abu Dhabi SmartPark is an initial MVP release that aims to solve urban parking c
 - TypeScript
 - ArcGIS Maps SDK
 - Tailwind CSS
-- MongoDB
+- Local JSON DB

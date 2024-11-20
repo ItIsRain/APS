@@ -1,4 +1,4 @@
-# Abu Dhabi SmartPark System (MVP)
+# Abu Dhabi SmartPark System (Initial MVP)
 
 An innovative AI-powered parking management solution that helps Abu Dhabi residents and visitors efficiently find and book parking spots.
 

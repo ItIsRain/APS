@@ -15,7 +15,6 @@ Abu Dhabi SmartPark is an initial MVP release that aims to solve urban parking c
 - **Smart Booking System**: Ability to book parking spots in advance
 - **AI Assistant**: Chat interface for parking recommendations
 - **Location Search**: Find closest available parking spots with pricing information
-- **Payment Integration**: Seamless payment processing for bookings
 
 ## Tech Stack
 

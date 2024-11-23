@@ -7,7 +7,7 @@ An innovative AI-powered parking management solution that helps Abu Dhabi reside
 Abu Dhabi SmartPark is an initial MVP release that aims to solve urban parking challenges through smart technology. The system provides real-time parking availability information and booking capabilities to reduce time spent searching for parking.
 
 ## Live Demo
-[Abu Dhabi SmartPark System](https://adps-jet.vercel.app/)
+Not available anymore until final MVP
 
 ## Current Features
 

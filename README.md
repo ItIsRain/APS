@@ -176,16 +176,27 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/yourusername.png" width="100px" alt=""/>
+      <img src="https://github.com/ItIsRain.png" width="100px" alt=""/>
       <br />
       <b>Mohamed Al Mehairbi</b>
       <br/>
+      Team Leader
       Developer & Student
       <br/>
       <i>Khalifa University</i>
     </td>
     <td align="center">
-      <img src="https://github.com/yourusername.png" width="100px" alt=""/>
+      <img src="https://github.com/Madelsa.png" width="100px" alt=""/>
+      <br />
+      <b>Mahmoud Abdelsalam</b>
+      <br/>
+      Graduated from Abu Dhabi University
+      Developer & Student
+      <br/>
+      <i>42 Abu Dhabi</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com/alsaeed3.png" width="100px" alt=""/>
       <br />
       <b>Ali Saeed</b>
       <br/>
@@ -194,16 +205,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
       <i>42 Abu Dhabi</i>
     </td>
     <td align="center">
-      <img src="https://github.com/yourusername.png" width="100px" alt=""/>
-      <br />
-      <b>Mahmoud Abdelsalam</b>
-      <br/>
-      Developer & Student
-      <br/>
-      <i>42 Abu Dhabi</i>
-    </td>
-    <td align="center">
-      <img src="https://github.com/yourusername.png" width="100px" alt=""/>
+      <img src="https://github.com/absalem42.png" width="100px" alt=""/>
       <br />
       <b>Abdullah Salem</b>
       <br/>

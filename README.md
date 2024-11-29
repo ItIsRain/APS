@@ -219,6 +219,10 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 
 [1] Abu Dhabi Open Data Platform (accessed Nov. 18, 2024)
 
+<div align="center">
+  Made with ❤️ in Abu Dhabi
+</div>
+
 <details>
 <summary>View Schema Definitions</summary>
   
@@ -255,7 +259,3 @@ interface Booking {
 }
 ```
 ---
-
-<div align="center">
-  Made with ❤️ in Abu Dhabi
-</div>

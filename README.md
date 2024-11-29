@@ -180,8 +180,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
       <br />
       <b>Mohamed Al Mehairbi</b>
       <br/>
-      Team Leader
-      Developer & Student
+      Team Leader, Developer & Student
       <br/>
       <i>Khalifa University</i>
     </td>

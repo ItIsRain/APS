@@ -125,42 +125,6 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 └── Geospatial Queries
 ```
 
-<details>
-<summary>View Schema Definitions</summary>
-Parking Spot Schema
-
-```
-interface ParkingSpot {
-  _id: ObjectId;
-  location: {
-    type: "Point";
-    coordinates: [number, number]; // [longitude, latitude]
-  };
-  type: "public" | "private" | "handicapped" | "sheltered";
-  status: "available" | "occupied" | "reserved";
-  pricePerHour: number;
-  totalSpaces: number;
-  availableSpaces: number;
-  lastUpdated: Date;
-}
-```
-
-Booking Schema
-
-```
-interface Booking {
-  _id: ObjectId;
-  userId: ObjectId;
-  spotId: ObjectId;
-  startTime: Date;
-  endTime: Date;
-  status: "active" | "completed" | "cancelled";
-  price: number;
-  paymentStatus: "pending" | "completed";
-  createdAt: Date;
-}
-```
-
 ## ⚡ Performance Metrics
 
 <table align="center">
@@ -254,6 +218,41 @@ interface Booking {
 
 [1] Abu Dhabi Open Data Platform (accessed Nov. 18, 2024)
 
+<details>
+<summary>View Schema Definitions</summary>
+  
+Parking Spot Schema
+```
+interface ParkingSpot {
+  _id: ObjectId;
+  location: {
+    type: "Point";
+    coordinates: [number, number]; // [longitude, latitude]
+  };
+  type: "public" | "private" | "handicapped" | "sheltered";
+  status: "available" | "occupied" | "reserved";
+  pricePerHour: number;
+  totalSpaces: number;
+  availableSpaces: number;
+  lastUpdated: Date;
+}
+```
+
+Booking Schema
+
+```
+interface Booking {
+  _id: ObjectId;
+  userId: ObjectId;
+  spotId: ObjectId;
+  startTime: Date;
+  endTime: Date;
+  status: "active" | "completed" | "cancelled";
+  price: number;
+  paymentStatus: "pending" | "completed";
+  createdAt: Date;
+}
+```
 ---
 
 <div align="center">

@@ -88,6 +88,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 - Guided booking process
 
 ### 🔍 Search & Filters
+```
 ├── Location search
 ├── Filter options
 │   ├── Public parking
@@ -95,17 +96,21 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 │   ├── Handicapped spots
 │   └── Sheltered parking
 └── Map customization
+```
 
 ## 🛠 Technical Architecture
 
 ### Frontend
+```
 ├── Next.js Framework
 ├── TypeScript
 ├── Tailwind CSS
 ├── ArcGIS Maps SDK
 └── Custom UI Components
+```
 
 ### Backend (MongoDB)
+```
 ├── Collections
 │   ├── ParkingSpots
 │   ├── Bookings
@@ -118,6 +123,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 ├── Complex Queries
 ├── Data Relationships
 └── Geospatial Queries
+```
 
 <details>
 <summary>View Schema Definitions</summary>

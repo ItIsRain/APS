@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://parkit.ae/logo.png" alt="SmartPark Logo" width="200"/>
+  <img src="[https://parkit.ae/logo.png](https://adps-jet-final.vercel.app/images/SmartParkLogoWritingNew.svg)" alt="SmartPark Logo" width="200"/>
   <br/>
   <br/>
   <h1 style="border: none;">

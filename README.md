@@ -8,7 +8,7 @@
   <!-- Added Link -->
   <p>
     <a href="https://parkit-ae.vercel.app/" target="_blank" style="text-decoration: none; font-size: 18px; color: #007bff;">
-      Visit the Abu Dhabi SmartPark System
+      Visit the Abu Dhabi SmartPark System (Parkit.ae)
     </a>
   </p>
   <p>

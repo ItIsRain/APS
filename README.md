@@ -147,7 +147,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
 <table>
   <tr>
     <td align="center">📱</td>
-    <td><b>Mobile Applications</b><br/>iOS and Android native apps</td>
+    <td><b>Mobile Applications</b><br/>iOS Apps</td>
   </tr>
   <tr>
     <td align="center">🚗</td>
@@ -167,7 +167,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
   </tr>
   <tr>
     <td align="center">🌍</td>
-    <td><b>Emirates Expansion</b><br/>Coverage across UAE</td>
+    <td><b>Emirates Expansion</b><br/>Coverage across Abu Dhabi using Abu Dhabi Open Data</td>
   </tr>
 </table>
 

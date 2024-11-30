@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dhfysudgu/image/upload/v1732924918/wn5gljfdeujo2ajyaa11.svg"
        alt="SmartPark Logo" width="200" />
   <br /><br />
-  <h1>🅿️ Abu Dhabi SmartPark System<br />
+  <h1>🅿️ Parkit.ae, Abu Dhabi SmartPark System<br />
     <small>AI-Powered Parking Solution</small>
   </h1>
   <p>

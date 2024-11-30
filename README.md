@@ -2,9 +2,15 @@
   <img src="https://res.cloudinary.com/dhfysudgu/image/upload/v1732924918/wn5gljfdeujo2ajyaa11.svg"
        alt="SmartPark Logo" width="200" />
   <br /><br />
-  <h1>🅿️ Parkit.ae, Abu Dhabi SmartPark System<br />
+  <h1>🅿️ Abu Dhabi SmartPark System<br />
     <small>AI-Powered Parking Solution</small>
   </h1>
+  <!-- Added Link -->
+  <p>
+    <a href="https://parkit-ae.vercel.app/" target="_blank" style="text-decoration: none; font-size: 18px; color: #007bff;">
+      Visit the Abu Dhabi SmartPark System
+    </a>
+  </p>
   <p>
     <a href="#overview">Overview</a> •
     <a href="#features">Features</a> •

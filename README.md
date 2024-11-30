@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://adps-jet-final.vercel.app/images/SmartParkLogoWritingNew.svg" alt="SmartPark Logo" width="200"/>
+  <img src="https://res.cloudinary.com/dhfysudgu/image/upload/v1732924918/wn5gljfdeujo2ajyaa11.svg" alt="SmartPark Logo" width="200"/>
   <br/>
   <br/>
   <h1 style="border: none;">

@@ -63,6 +63,7 @@ Abu Dhabi SmartPark is revolutionizing urban parking through AI-powered technolo
   - Peak hours: 6:00 AM–9:00 AM & 6:00 PM–9:00 PM.
   - Flexible rates for different parking types.
 - Secure payment integration.
+- <strong>SMS & Call Integration</strong> [Preview](https://www.linkedin.com/feed/update/urn:li:activity:7271268784865234944/).
 
 ---
 

@@ -10,6 +10,8 @@
     <a href="https://parkit-ae.vercel.app/" target="_blank" style="text-decoration: none; font-size: 18px; color: #007bff;">
       Visit the Abu Dhabi SmartPark System (Parkit.ae)
     </a>
+  </p>
+  <p>
     <a href="https://itsrain.ae/Parkit.ae-FAQ" target="_blank" style="text-decoration: none; font-size: 18px; color: #007bff;">
       You got any specific questions or doubts? Visit the FAQ of Parkit.ae
     </a>
